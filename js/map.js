@@ -6,7 +6,7 @@ let tiles = L.tileLayer("https://mapwarper.net/maps/tile/58607/{z}/{x}/{y}.png")
 tilesbg.addTo(myMap)
 tiles.addTo(myMap);
 
-$.getJSON("./MutinousWomen.geojson", function(data){
+$.getJSON("/js/MutinousWomen.geojson", function(data){
   
 // let legend = L.control({position: 'bottomright'});
   
