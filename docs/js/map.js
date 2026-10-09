@@ -6,7 +6,7 @@ let tiles = L.tileLayer("https://mapwarper.net/maps/tile/58607/{z}/{x}/{y}.png")
 tilesbg.addTo(myMap)
 tiles.addTo(myMap);
 
-$.getJSON("MutinousWomen.geojson", function(data){
+$.getJSON("./MutinousWomen.geojson", function(data){
   
 // let legend = L.control({position: 'bottomright'});
   
@@ -37,7 +37,7 @@ let legend = L.control({ position: "bottomleft" });
 
 legend.onAdd = function(map) {
   let div = L.DomUtil.create("div", "legend");
-  div.innerHTML += '<img src="mutine-women-legend.jpg" style="width:200px">'
+  div.innerHTML += '<img src="./mutine-women-legend.jpg" style="width:200px">'
   
 
   return div;
