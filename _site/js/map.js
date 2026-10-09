@@ -6,7 +6,7 @@ let tiles = L.tileLayer("https://mapwarper.net/maps/tile/58607/{z}/{x}/{y}.png")
 tilesbg.addTo(myMap)
 tiles.addTo(myMap);
 
-$.getJSON("https://cdn.glitch.me/ff68c5af-6a66-41a2-892e-9495a1e61e6d%2Fmw-dec7.geojson?v=1638902632883", function(data){
+$.getJSON("MutinousWomen.geojson", function(data){
   
 // let legend = L.control({position: 'bottomright'});
   
@@ -37,7 +37,7 @@ let legend = L.control({ position: "bottomleft" });
 
 legend.onAdd = function(map) {
   let div = L.DomUtil.create("div", "legend");
-  div.innerHTML += '<img src="https://cdn.glitch.me/ff68c5af-6a66-41a2-892e-9495a1e61e6d%2Fmutine-women-legend.jpg?v=1637694856933" style="width:200px">'
+  div.innerHTML += '<img src="mutine-women-legend.jpg" style="width:200px">'
   
 
   return div;

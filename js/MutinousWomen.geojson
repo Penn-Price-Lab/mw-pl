@@ -1,0 +1,917 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.060865,29.959401 ]
+    },
+    "properties": {
+    "ID":1,
+    "Type":"person",
+    "Lot":"36",
+    "Location (if no lot no.)":"",
+    "Name":"Marie Louise Balivet",
+    "Ship_number":"Mutine no.178",
+    "Birth":"Saint-Germain-en-Laye, France, 1679",
+    "Death":"Mobile, 1736",
+    "Image":"https://cdn.glitch.me/095c6d41-a3ec-49e6-a0eb-30d2394c0254%2FBalivel%20Lazou.jpg?v=1636134947725",
+    "Bio":"In 1731, Marie Louise Balivet lived on lot number 36 with her second husband, ship’s captain Joseph de Lazou. Balivet’s first husband, Jacques Duval, died in a shipwreck."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.062158,29.960005 ]
+    },
+    "properties": {
+    "ID":2,
+    "Type":"person",
+    "Lot":"92",
+    "Location (if no lot no.)":"",
+    "Name":"Marie Madeleine Bouru",
+    "Ship_number":"Mutine no.181",
+    "Birth":"Montargis, France, c.1694",
+    "Death":"New Orleans, after 1729",
+    "Image":"",
+    "Bio":"Lot 92 is listed in the name of Marie Madeleine Bouru’s first husband, Étienne Barasson. After his death in 1728, Marie Madeleine Bouru lived there with her second husband, Joseph Deschamps, Indies Company carter."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.067645,29.956222 ]
+    },
+    "properties": {
+    "ID":3,
+    "Type":"person",
+    "Lot":"119",
+    "Location (if no lot no.)":"",
+    "Name":"Marie Chartier",
+    "Ship_number":"Mutine no.104",
+    "Birth":"Blois, c.1696",
+    "Death":"New Orleans, 1730 or 1731",
+    "Image":"https://cdn.glitch.me/095c6d41-a3ec-49e6-a0eb-30d2394c0254%2FChartier%20Troquidy.jpg?v=1636134947674",
+    "Bio":"In 1731, Marie Chartier lived on lot number 119 with her second husband, ship’s captain, Manu de Tronquidi. In the very early years of New Orleans’s existence, Chartier resided there with her first husband, Pierre Antoine Duflot, and their daughter, both of whom died in 1727.\n\n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.063354,29.960846 ]
+    },
+    "properties": {
+    "ID":4,
+    "Type":"person",
+    "Lot":"171",
+    "Location (if no lot no.)":"",
+    "Name":"Jeanne Coroy",
+    "Ship_number":"Mutine no.75",
+    "Birth":"Saint-Martin-sur-la-Renne, France, 1689",
+    "Death":"New Orleans, after 1733",
+    "Image":"https://cdn.glitch.me/095c6d41-a3ec-49e6-a0eb-30d2394c0254%2FCoroy%20Vincent.jpg?v=1636134947528",
+    "Bio":"Jeanne Coroy lived on lot 171 with her husband, Jacques Talmont Vincent, the bailiff of New Orleans. Their only child died in 1727. After Vincent’s death, in 1733 Jeanne Coroy married Pierre François Lancien from Rouen."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.06366,29.961046 ]
+    },
+    "properties": {
+    "ID":5,
+    "Type":"person",
+    "Lot":"246",
+    "Location (if no lot no.)":"",
+    "Name":"Marie Daudin",
+    "Ship_number":"Mutine no.166",
+    "Birth":"Orléans, 1700",
+    "Death":"New Orleans, 1768",
+    "Image":"https://cdn.glitch.me/095c6d41-a3ec-49e6-a0eb-30d2394c0254%2FDaudin%20and%20Caron.jpg?v=1636134947948",
+    "Bio":"Marie Daudin long resided on lot 246. After her first husband, ship’s captain Antoine Michel Caron, was killed at Natchez in 1729, she lived at the property, listed in the name of “the widow Caron,” with her second husband, master carpenter Pierre La Roche, and children from both her marriages."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.06366,29.961046 ]
+    },
+    "properties": {
+    "ID":6,
+    "Type":"person",
+    "Lot":"55",
+    "Location (if no lot no.)":"",
+    "Name":"Marie Anne Dinan",
+    "Ship_number":"Mutine no.118",
+    "Birth":"Paris, c.1704",
+    "Death":"New Orleans, after 1752",
+    "Image":"",
+    "Bio":"Marie Anne Dinan, Francoise's sister, lived on lot 55 with her husband, fellow Parisian and master tailor, Jean Cariton, and their children until about 1729, when they lost the property because of his gambling debts."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.062962,29.960182 ]
+    },
+    "properties": {
+    "ID":7,
+    "Type":"person",
+    "Lot":"168",
+    "Location (if no lot no.)":"",
+    "Name":"Françoise Dinan",
+    "Ship_number":"Mutine no.64",
+    "Birth":"Paris, c.1701",
+    "Death":"New Orleans, 1726",
+    "Image":"",
+    "Bio":"Françoise Dinan, Marie Anne's sister,  lived on lot 168 with her husband, Louis Brouet, fellow Parisian, wagonmaker, and cousin of Angélique Reffe (La Mutine passenger number 137), until her death in 1726."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.06469,29.959917 ]
+    },
+    "properties": {
+    "ID":8,
+    "Type":"person",
+    "Lot":"230",
+    "Location (if no lot no.)":"",
+    "Name":"Manon Fontaine",
+    "Ship_number":"Deux Frères",
+    "Birth":"Paris, c.1681",
+    "Death":"New Orleans, 1734",
+    "Image":"https://cdn.glitch.me/095c6d41-a3ec-49e6-a0eb-30d2394c0254%2FManon%20Fontaine.jpg?v=1636134947897",
+    "Bio":"In 1731, Manon Fontaine was probably living on lot number 230, a property she held in her own name. Manon also owned lots 226, 230, and 241. Lots 226 and 241 were in the name of her husband, blacksmith Jean Melin, known as Bourguignon (b. Prunoy, France 1686, d. France after 1734)."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.066621,29.9577 ]
+    },
+    "properties": {
+    "ID":9,
+    "Type":"person",
+    "Lot":"200",
+    "Location (if no lot no.)":"",
+    "Name":"Marie Anne Giard",
+    "Ship_number":"Mutine no.78",
+    "Birth":"Paris, c.1701",
+    "Death":"unknown",
+    "Image":"",
+    "Bio":"Lots 226 and 241 were in the name of her husband, blacksmith Jean Melin, known as Bourguignon (b. Prunoy, France 1686, d. France after 1734)."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.065559,29.96008 ]
+    },
+    "properties": {
+    "ID":10,
+    "Type":"person",
+    "Lot":"240",
+    "Location (if no lot no.)":"",
+    "Name":"Angélique Reffe",
+    "Ship_number":"Mutine, no.137",
+    "Birth":"Paris, date unknown",
+    "Death":"New Orleans, after 1738",
+    "Image":"",
+    "Bio":"In 1731, lot 240 was listed in the name of Julien Gautier. Angélique Reffe, by then widowed three times, moved to the property in July 1738, when Gautier became her fourth husband.  It’s not known if any of the two sets of twin daughters born to Angélique and her first husband, Nicolas Mirodot (or Miraudot), survived and were living with them.  \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.065081,29.956264 ]
+    },
+    "properties": {
+    "ID":11,
+    "Type":"person",
+    "Lot":"53",
+    "Location (if no lot no.)":"",
+    "Name":"Anne Françoise Rolland",
+    "Ship_number":"Mutine, no.105",
+    "Birth":"Paris, c.1697",
+    "Death":"Pointe Coupée, 1758",
+    "Image":"",
+    "Bio":"Anne Françoise Rolland resided on lot 53 with her first husband, warehouse-keeper Nicolas Sarazin. In 1731, the property was in the name of “the widow Sarazin,” and she was living there with her second husband, Indies Company official, Laurent Bordelon, and children from her first marriage."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.067275,29.95698 ]
+    },
+    "properties": {
+    "ID":12,
+    "Type":"person",
+    "Lot":"189",
+    "Location (if no lot no.)":"",
+    "Name":"Marguerite Salot",
+    "Ship_number":"Mutine, no.146",
+    "Birth":"La Ferté-sous-Jouarre, France, c.1696",
+    "Death":"New Orleans, 1725",
+    "Image":"",
+    "Bio":"After her first husband’s death, Marguerite Salot lived on lot 189 with their child and her second husband, Louis Manseau, until her death in 1725."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.065199,29.959494 ]
+    },
+    "properties": {
+    "ID":13,
+    "Type":"person",
+    "Lot":"218",
+    "Location (if no lot no.)":"",
+    "Name":"Marie Angélique Dimanche",
+    "Ship_number":"Mutine, no.155",
+    "Birth":"Paris, date unknown",
+    "Death":"New Orleans, after 1732",
+    "Image":"",
+    "Bio":"Marie Angélique Dimanche lived on lot number 218, on the corner of Bourbon and St. Ann, with her husband, blacksmith and edge-tool maker Julien Binard, and their child. The property was listed under the name by which Binard was known to all, “La Forge,” the Forge. Their home was virtually across the street from the house where Manon Fontaine and her blacksmith husband resided: New Orleans’s first two blacksmiths could have walked to work together at the King’s Forges (letter L)."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.06366,29.961046 ]
+    },
+    "properties": {
+    "ID":14,
+    "Type":"person",
+    "Lot":"246",
+    "Location (if no lot no.)":"",
+    "Name":"",
+    "Ship_number":"",
+    "Birth":"",
+    "Death":"",
+    "Image":"https://cdn.glitch.me/095c6d41-a3ec-49e6-a0eb-30d2394c0254%2FLa%20Roche%20and%20Revoil%20(Daudin_s%20daughter).jpg?v=1636134947124",
+    "Bio":"In 1731, lot number 246 was owned by someone “known as le Parisien.” In 1761, the property was acquired by the daughter of Marie Daudin (La Mutine number 166), Marie Catherine Laroche, and her husband, merchant Pierre Revoil."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.06433,29.960247 ]
+    },
+    "properties": {
+    "ID":15,
+    "Type":"person",
+    "Lot":"233",
+    "Location (if no lot no.)":"",
+    "Name":"",
+    "Ship_number":"",
+    "Birth":"",
+    "Death":"",
+    "Image":"",
+    "Bio":"Marie Anne Bauregard, daughter of Marie Jeanne Philbert, lived on lot number 233 with her husband, François Penturaux. Marie Jeanne Philbert (b. Nantes, France c. 1689; d. New Orleans) was number 85 on La Mutine, and Marie Anne was the child of her first marriage, to Pierre Bauregard, in Nantes, France."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.066444,29.957914 ]
+    },
+    "properties": {
+    "ID":16,
+    "Type":"person",
+    "Lot":"204",
+    "Location (if no lot no.)":"",
+    "Name":"Jeanne Mahou",
+    "Ship_number":"Mutine no. 129",
+    "Birth":"Saint-Dizier, France, 1702",
+    "Death":"unknown",
+    "Image":"",
+    "Bio":"In 1728, carpenter Jacques Dureaux, future husband of Jeanne Mahou, number 129 on La Mutine, owned this property on Bourbon Street.  At that time, Jeanne Mahou (b. Saint-Dizier, France 1702; d. Louisiana), was still married to her first husband, Laurent Laurent (1693-1737), and living in what is now Alabama, near Fort Toulouse, with their children."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.064357,29.958578 ]
+    },
+    "properties": {
+    "ID":17,
+    "Type":"person",
+    "Lot":"147",
+    "Location (if no lot no.)":"",
+    "Name":"Marie Louise Brunet",
+    "Ship_number":"Deux Frères",
+    "Birth":"Paris, c.1700",
+    "Death":"New Orleans, after 1743",
+    "Image":"",
+    "Bio":"Lot number 147 on Royal St. is the likely location of the home Marie Louise Brunet shared with her first husband, Giles Lemirre, and after Lemirre’s death, with her second husband, cabinetmaker Jean Baptiste Montard, and their two children."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.066218,29.957798 ]
+    },
+    "properties": {
+    "ID":18,
+    "Type":"person",
+    "Lot":"137",
+    "Location (if no lot no.)":"",
+    "Name":"Marie Michel",
+    "Ship_number":"Deux Frères",
+    "Birth":"Soissons, France, date unknown",
+    "Death":"Louisiana, after 1728",
+    "Image":"",
+    "Bio":"Marie Michel was widowed before 1719, when she was deported for tobacco smuggling. There is no indication that she remarried in the colony. Lot 137, on the corner of Toulouse and Bourbon, was listed in Michel’s name in 1728 but no longer in 1731. Marie Michel may have died in the interval."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.065119,29.957812 ]
+    },
+    "properties": {
+    "ID":19,
+    "Type":"person",
+    "Lot":"124",
+    "Location (if no lot no.)":"",
+    "Name":"Marie Paris",
+    "Ship_number":"Deux Frères",
+    "Birth":"Orleans, France, c.1688",
+    "Death":"Louisiana, date unknown",
+    "Image":"",
+    "Bio":"Lot 124 on Royal St. is the likely location of the home Marie Paris shared with her first husband, voyageur Antoine Jobelin, known as Sans Soucy, who died in New Orleans, and then from 1732, with her second husband, drummer François Manard, also a widower whose first wife had died in New Orleans."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.066007,29.959358 ]
+    },
+    "properties": {
+    "ID":20,
+    "Type":"person",
+    "Lot":"N/A",
+    "Location (if no lot no.)":"Near corner Orleans and Dauphine, north of 214",
+    "Name":"Marie Baron",
+    "Ship_number":"Mutine no.202",
+    "Birth":"Le Mesnil-Thomas, France, date unknown",
+    "Death":"Probably Puducherry, India, probaby after 1760",
+    "Image":"https://cdn.glitch.me/095c6d41-a3ec-49e6-a0eb-30d2394c0254%2FDumont%20Newberry%20Logement_de_lautheur_a_la_Nlle_Orleans%20.jpg?v=1636134947587",
+    "Bio":"Near the corner of Orleans and the street already known to inhabitants as Dauphine even though it had not yet been officially named is a lot with no number that had not yet been attributed to an owner. This is likely the address where, after her first husband was killed at Natchez, Marie Baron and her second husband, army officer and future historian of French Louisiana, Jean François Benjamin Dumont [de Montigny], lived between 1732 and 1737. In 1737, Dumont filed a complaint against their neighbor, Jean Joseph Dauphin, who, in 1731, was listed as the owner of lot 214. Dumont alleged that Dauphin was neglecting his property and stealing from Dumont’s garden."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.063719,29.959331 ]
+    },
+    "properties": {
+    "ID":21,
+    "Type":"person",
+    "Lot":"154",
+    "Location (if no lot no.)":"",
+    "Name":"Anne Namond",
+    "Ship_number":"Deux Frères",
+    "Birth":"Marchelpau, France, c.1696",
+    "Death":"New Orleans, 1725",
+    "Image":"",
+    "Bio":"Lot 154 is the likely location of the home that Anne Namond shared with her husband, Claude Baguerois, known as La France, until her death in 1725. After her death, Anne Namond’s widower remained friendly with a couple who had been among their neighbors, Marie Louise Balivet and Joseph de Lazou. In 1734, La France helped Balivet, by then a widow, negotiate the sale of Balivet’s original home in New Orleans, on St. Ann St."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.068744,29.955195 ]
+    },
+    "properties": {
+    "ID":22,
+    "Type":"street",
+    "Lot":"N/A",
+    "Location (if no lot no.)":"Bourbon St.",
+    "Name":"Catherine Oudart",
+    "Ship_number":"Deux Frères",
+    "Birth":"Paris, 1686",
+    "Death":"Louisiana, date unknown",
+    "Image":"",
+    "Bio":"After the death in Mobile of her husband, Sergeant Beaulieu of the Mobile garrison, Catherine Oudart moved to New Orleans with their daughter Anne and lived on Bourbon St."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.068051,29.955959 ]
+    },
+    "properties": {
+    "ID":23,
+    "Type":"street",
+    "Lot":"N/A",
+    "Location (if no lot no.)":"Bourbon St.",
+    "Name":"Marie Jeanne Philbert",
+    "Ship_number":"Mutine no.85",
+    "Birth":"Nantes, c.1689",
+    "Death":"Louisiana, after 1728",
+    "Image":"",
+    "Bio":"In 1727, Marie Jeanne Philbert was living on Bourbon St. with her second husband, wheelright Pierre Evrard."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.067117,29.95539 ]
+    },
+    "properties": {
+    "ID":24,
+    "Type":"street",
+    "Lot":"N/A",
+    "Location (if no lot no.)":"Royal St.",
+    "Name":"Marguerite Letellier",
+    "Ship_number":"Mutine no.111",
+    "Birth":"Paris, c.1703",
+    "Death":"Louisiana, after 1726",
+    "Image":"",
+    "Bio":"Marguerite Letellier married Maurice Pigny, the official wheelright of the Indies Company. In 1732, they lived on Royal St., perhaps on the south side of the street, on the block between Toulouse and St. Peter."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.067255,29.955236 ]
+    },
+    "properties": {
+    "ID":25,
+    "Type":"street",
+    "Lot":"N/A",
+    "Location (if no lot no.)":"Royal St.",
+    "Name":"Marie Chevalier",
+    "Ship_number":"Mutine no.140",
+    "Birth":"Paris, c.1697",
+    "Death":"Louisiana, after 1740",
+    "Image":"",
+    "Bio":"Marie Chevalier lived with her first husband, whose name was written either Grau or Grace, the accountant for New Orleans’s hospital, on Royal St., perhaps on lot number 173, at the corner of St. Philip."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.067402,29.955088 ]
+    },
+    "properties": {
+    "ID":26,
+    "Type":"street",
+    "Lot":"N/A",
+    "Location (if no lot no.)":"Royal St.",
+    "Name":"Marie Simone Martin",
+    "Ship_number":"Mutine no.62",
+    "Birth":"Paris, c.1702",
+    "Death":"New Orleans, 1729",
+    "Image":"",
+    "Bio":"Marie Simone Martin lived on Royal St. with her husband, mason Pierre Caillou, and their child until her death in 1729. After Marie Simone’s death in October 1729, Pierre Caillou relocated to Natchez with their daughter. Both were killed in Natchez in November 1729, during a Native American uprising provoked by an illegal land grab by the corrupt commander of the French garrison there."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.067522,29.95491 ]
+    },
+    "properties": {
+    "ID":27,
+    "Type":"street",
+    "Lot":"N/A",
+    "Location (if no lot no.)":"Royal St.",
+    "Name":"Étienette Gené",
+    "Ship_number":"Deux Frères",
+    "Birth":"Sens, France, c.1686",
+    "Death":"New Orleans, 1727",
+    "Image":"",
+    "Bio":"Until her death in 1727, Étiennette Gené lived on Royal St. with her husband, the official drummer of the Indies Company, Pierre Fugère, known as La Croix, and their child."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.066568,29.954323 ]
+    },
+    "properties": {
+    "ID":28,
+    "Type":"street",
+    "Lot":"N/A",
+    "Location (if no lot no.)":"Chartres St.",
+    "Name":"Marie Anne Boutin",
+    "Ship_number":"Mutine no.96",
+    "Birth":"Paris, c.1699",
+    "Death":"New Orleans, 1727",
+    "Image":"",
+    "Bio":"Until 1727, Marie Anne Boutin lived on Chartres St. with her husband, joiner Charles François Le Moine, and their children."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.064447,29.955217 ]
+    },
+    "properties": {
+    "ID":29,
+    "Type":"street",
+    "Lot":"N/A",
+    "Location (if no lot no.)":"Condé St.",
+    "Name":"Marie Anne Le Fort ",
+    "Ship_number":"Mutine no.107",
+    "Birth":"Nantes, France, c.1699",
+    "Death":"New Orleans, 1725",
+    "Image":"",
+    "Bio":"Marie Anne Le Fort lived on Condé St. with her husband, sailor and fisherman, Claude Imbert. After Marie Anne’s death in 1725, Imbert married a second passenger on La Mutine, Thérèse Le Comte, and they lived on Condé Street, undoubtedly in the same house, along with their child, until Imbert’s death in 1728.  Thérèse then married soldier Laurent Rembaut, called St. Laurent. Both Thérèse and St. Laurent died in 1728."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.064602,29.955316 ]
+    },
+    "properties": {
+    "ID":30,
+    "Type":"street",
+    "Lot":"N/A",
+    "Location (if no lot no.)":"Condé St.",
+    "Name":"Thérèse Le Comte",
+    "Ship_number":"Mutine no.143",
+    "Birth":"Paris, c.1694",
+    "Death":"New Orleans, 1728",
+    "Image":"",
+    "Bio":"Marie Anne Le Fort lived on Condé St. with her husband, sailor and fisherman, Claude Imbert. After Marie Anne’s death in 1725, Imbert married a second passenger on La Mutine, Thérèse Le Comte, and they lived on Condé Street, undoubtedly in the same house, along with their child, until Imbert’s death in 1728.  Thérèse then married soldier Laurent Rembaut, called St. Laurent. Both Thérèse and St. Laurent died in 1728."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.064358,29.961491 ]
+    },
+    "properties": {
+    "ID":31,
+    "Type":"street",
+    "Lot":"N/A",
+    "Location (if no lot no.)":"Arsenal St. (today Ursuline Avenue)",
+    "Name":"Marie Madeleine Doyart",
+    "Ship_number":"Mutine no.57",
+    "Birth":"Ireland, c.1706",
+    "Death":"Louisiana, after 1727",
+    "Image":"",
+    "Bio":"Marie Madeleine Doyart married soldier René Malain, known as “Sans Chagrin,” or “Carefree.” They lived on Arsenal St. with their two children. In November 1729, Carefree was among the soldiers killed at Natchez during a Native American revolt provoked by an illegal land grab by the corrupt commander of the French garrison there."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.065136,29.958232 ]
+    },
+    "properties": {
+    "ID":32,
+    "Type":"street",
+    "Lot":"N/A",
+    "Location (if no lot no.)":"Saint Peter St.",
+    "Name":"Thérèse Valenciennes",
+    "Ship_number":"Mutine no.174",
+    "Birth":"France, date unknown",
+    "Death":"Louisiana, after 1727",
+    "Image":"",
+    "Bio":"In 1727, Thérèse Valenciennes, by then a widow with one child, was living on St. Peter Street."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.064358,29.95911 ]
+    },
+    "properties": {
+    "ID":33,
+    "Type":"street",
+    "Lot":"N/A",
+    "Location (if no lot no.)":"St. Anne St.",
+    "Name":"Marie Raflon",
+    "Ship_number":"Mutinr no.158",
+    "Birth":"Paris, date unknown ",
+    "Death":"New Orleans, 1731",
+    "Image":"",
+    "Bio":"In 1727 Marie Raflon lived on St. Ann with her husband, Jean Francois Herissé (b. Chambly, Picardy; d. New Orleans 1728), called Ringal, a drummer, and their two children."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.062206,29.956961 ]
+    },
+    "properties": {
+    "ID":34,
+    "Type":"public building",
+    "Lot":"",
+    "Location (if no lot no.)":"Quay",
+    "Name":"",
+    "Ship_number":"",
+    "Birth":"",
+    "Death":"",
+    "Image":"",
+    "Bio":"The landing place or embankment that ran alongside the river the French then called either “the Mississippi” or, using the name given it early on by French explorers, “the Saint-Louis” river."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.067055,29.958857 ]
+    },
+    "properties": {
+    "ID":35,
+    "Type":"street",
+    "Lot":"",
+    "Location (if no lot no.)":"Last street laid out on the city’s northern edge, Dauphine St.",
+    "Name":"\n\n",
+    "Ship_number":"",
+    "Birth":"",
+    "Death":"",
+    "Image":"",
+    "Bio":"At the city’s northern edge, houses lined a street so new it was still officially unnamed: even before it had been completed, residents already called it “Dauphine Street.”"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.065972,29.961492 ]
+    },
+    "properties": {
+    "ID":36,
+    "Type":"public building",
+    "Lot":"",
+    "Location (if no lot no.)":"",
+    "Name":"Bayou Saint-Jean",
+    "Ship_number":"",
+    "Birth":"",
+    "Death":"",
+    "Image":"",
+    "Bio":"Bayou Saint-Jean, where the widower of Deux Frères’s passenger Marie Avril (b. Turny, France 1703; d. Mobile 1738), voyageur Jacques Tarascon, relocated after Avril’s death and where their children spent their adult lives."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.062951,29.957468 ]
+    },
+    "properties": {
+    "ID":37,
+    "Type":"public building",
+    "Lot":"",
+    "Location (if no lot no.)":"",
+    "Name":"",
+    "Ship_number":"",
+    "Birth":"",
+    "Death":"",
+    "Image":"",
+    "Bio":"The Parade Ground, today’s Jackson Square. New Orleans’s central square and most prominent public space, a ceremonial space and marketplace. From 1724 on, the Place d’Armes became the site of the city’s official open air market, where families from the German Coast, such as Geneviève Bettemont (b. Paris 1705, d. German Coast, 1784; number 179 on La Mutine) and her husband, Jacques Le Borne, who came to Louisiana voluntarily to work on a concession, brought the produce from their farms for sale."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.063669,29.957951 ]
+    },
+    "properties": {
+    "ID":38,
+    "Type":"public building",
+    "Lot":"A",
+    "Location (if no lot no.)":"",
+    "Name":"Saint-Louis Church ",
+    "Ship_number":"",
+    "Birth":"",
+    "Death":"",
+    "Image":"",
+    "Bio":"New Orleans’s first church, completed in 1727. Already in 1726, Marie Anne Dinan (number 118 on La Mutine) was paying monthly rent on a church pew. From 1727 on, deported women who lived in New Orleans attended Mass, marriages, and baptisms there. While those who wed in New Orleans in the early years before the church had been built were married in a makeshift space, the women’s second marriages were performed in the city’s new church: in 1730, for example, both Marie Baron (number 202 on La Mutine) and Marie Daudin (number 166 on La Mutine) were wed in Saint-Louis Church after their first husbands were killed during the Natchez uprising in November 1729."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.063332,29.958221 ]
+    },
+    "properties": {
+    "ID":39,
+    "Type":"public building",
+    "Lot":"B",
+    "Location (if no lot no.)":"",
+    "Name":"Mutine no.158",
+    "Ship_number":"",
+    "Birth":"",
+    "Death":"",
+    "Image":"",
+    "Bio":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.063788,29.957681 ]
+    },
+    "properties": {
+    "ID":40,
+    "Type":"public building",
+    "Lot":"C",
+    "Location (if no lot no.)":"",
+    "Name":"Prison",
+    "Ship_number":"",
+    "Birth":"",
+    "Death":"",
+    "Image":"",
+    "Bio":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.063896,29.957542 ]
+    },
+    "properties": {
+    "ID":41,
+    "Type":"public building",
+    "Lot":"D",
+    "Location (if no lot no.)":"",
+    "Name":"Guard House",
+    "Ship_number":"",
+    "Birth":"",
+    "Death":"",
+    "Image":"",
+    "Bio":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.060301,29.959894 ]
+    },
+    "properties": {
+    "ID":42,
+    "Type":"public building",
+    "Lot":"G",
+    "Location (if no lot no.)":"",
+    "Name":"Hospital",
+    "Ship_number":"",
+    "Birth":"",
+    "Death":"",
+    "Image":"",
+    "Bio":"New Orleans’s first hospital was completed in the summer of 1723. Among the deported women who died there were two of the original New Orleanians: Marie Boutin, number 96 on La Mutine (born in Paris c. 1700; died in New Orelans in 1727) and Thérèse Le Comte, number 143 on La Mutine (born in Paris c. 1692; died in New Orleans in 1728)."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.061651,29.958414 ]
+    },
+    "properties": {
+    "ID":43,
+    "Type":"public building",
+    "Lot":"I",
+    "Location (if no lot no.)":"",
+    "Name":"Indies Company's Warehouses",
+    "Ship_number":"",
+    "Birth":"",
+    "Death":"",
+    "Image":"",
+    "Bio":"Initially, the warehouses, the official storehouses for all the supplies that Indies Company ships brought to Louisiana, were the province of Anne Françoise Rolland’s first husband, Nicolas Sarazin."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.061569,29.958641 ]
+    },
+    "properties": {
+    "ID":44,
+    "Type":"public building",
+    "Lot":"I",
+    "Location (if no lot no.)":"",
+    "Name":"Indies Company's Warehouses",
+    "Ship_number":"",
+    "Birth":"",
+    "Death":"",
+    "Image":"",
+    "Bio":"Initially, the warehouses, the official storehouses for all the supplies that Indies Company ships brought to Louisiana, were the province of Anne Françoise Rolland’s first husband, Nicolas Sarazin."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.066175,29.956989 ]
+    },
+    "properties": {
+    "ID":45,
+    "Type":"public building",
+    "Lot":"L",
+    "Location (if no lot no.)":"",
+    "Name":"Indies Company's Forges",
+    "Ship_number":"",
+    "Birth":"",
+    "Death":"",
+    "Image":"",
+    "Bio":"Both of New Orleans’s first blacksmiths were married to women who were deported to Louisiana in 1719: Manon Fontaine and Marie Angélique Dimanche."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.069335,29.955286 ]
+    },
+    "properties": {
+    "ID":46,
+    "Type":"other ",
+    "Lot":"N/A",
+    "Location (if no lot no.)":"N/A",
+    "Name":"Françoise Ferret ",
+    "Ship_number":"Deux Frères",
+    "Birth":"Amiens, France, c.1679",
+    "Death":"New Orleans, 1724",
+    "Image":"https://cdn.glitch.me/ff68c5af-6a66-41a2-892e-9495a1e61e6d%2F095c6d41-a3ec-49e6-a0eb-30d2394c0254_Un%20habitation%20a%20la%20Nouvelle%20Orleans.jpg?v=1637689668597",
+    "Bio":"Françoise Ferret married Charles Gaigné, known as Duplessis."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.069338,29.954981 ]
+    },
+    "properties": {
+    "ID":47,
+    "Type":"other ",
+    "Lot":"N/A",
+    "Location (if no lot no.)":"N/A",
+    "Name":"Marie Anne Automne",
+    "Ship_number":"Mutine no.108",
+    "Birth":"Paris, c.1699",
+    "Death":"Louisiana, before 1732",
+    "Image":"https://cdn.glitch.me/ff68c5af-6a66-41a2-892e-9495a1e61e6d%2F095c6d41-a3ec-49e6-a0eb-30d2394c0254_Un%20habitation%20a%20la%20Nouvelle%20Orleans.jpg?v=1637689668597",
+    "Bio":"Marie Anne Automne married Joseph Quevedo, and in 1724, their son, Mathurin, was baptized in New Orleans. By 1732, Quevedo, identified as “the Spaniard,” was living in Illinois with five children."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.069032,29.955411 ]
+    },
+    "properties": {
+    "ID":48,
+    "Type":"other ",
+    "Lot":"N/A",
+    "Location (if no lot no.)":"N/A",
+    "Name":"Louise Fontenelle",
+    "Ship_number":"Mutine no.199",
+    "Birth":"Rouen, France, date unknown",
+    "Death":"New Orleans, 1726",
+    "Image":"https://cdn.glitch.me/ff68c5af-6a66-41a2-892e-9495a1e61e6d%2F095c6d41-a3ec-49e6-a0eb-30d2394c0254_Un%20habitation%20a%20la%20Nouvelle%20Orleans.jpg?v=1637689668597",
+    "Bio":"In New Orleans, Louise Fontenelle married Pierre Bel, an Indies Company ship’s caulker from La Rochelle, France."
+    }
+  }
+]
+}
